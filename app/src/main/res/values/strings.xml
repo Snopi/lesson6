@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSSReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_channels">There is no Channels..</string>
+    <string name="add_channel">Add channel</string>
+    <string name="channel_template">channel</string>
+    <string name="null_list_view">Nothing to show...</string>
+
+</resources>
